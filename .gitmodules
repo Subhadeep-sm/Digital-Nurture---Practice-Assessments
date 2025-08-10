@@ -1,3 +1,6 @@
 [submodule "Week8_Git/2. Git-HOL/GitDemo"]
 	path = Week8_Git/2. Git-HOL/GitDemo
 	url = https://github.com/Subhadeep-sm/GitDemo.git
+[submodule "Week8_Git/1. Git-HOL/GitDemo"]
+	path = Week8_Git/1. Git-HOL/GitDemo
+	url = https://github.com/Subhadeep-sm/GitDemo.git
